@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.whiteBox{
+    width: 250px;
+    height: 200px;
+    border: 2px solid red;
+    display: inline-block;
+}
+.active{
+    border: 2px dotted grey;
+}
+.blueBox{
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+}
+.hide{
+    display: none;
+}
